@@ -8,7 +8,7 @@ TENTANG WEB
 web ini berisi karakter dari sebuah animasi bernama rick and morty isi dalam webnya ada bermacam macam karakter
 
 link demo menggunakan vercel
-https://vercel.com/kelompok2-7b44712c/uprak-kelompok2/Gf63WZxRtXDD144RpbSzTxBtjiGs
+https://uprak-kelompok2.vercel.app/
 
 ## 🚀 Cara Install & Menjalankan Project
 
