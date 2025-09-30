@@ -17,7 +17,7 @@ https://uprak-kelompok2.vercel.app/
 
 1. Clone Repository
    
-   git clone https://github.com/Skysanzzz7/Uprak-kelompok2.git
+   git clone https://github.com/ridxcksm/Uprak-web.git
 
 3. Masuk ke folder projek
    
